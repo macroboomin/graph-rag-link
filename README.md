@@ -28,4 +28,5 @@ bio와 bio_base는 MMLU 데이터셋으로 여러 지표들을 평가하는데�
 ## WorkFlow
 - File Overview에 적혀 있는 순서대로 진행
 - 전반적인 개요는 다음과 같음
-<img width="833" alt="image" src="<img width="833" alt="image" src="https://github.com/user-attachments/assets/0089fdd5-cc39-42db-b3ef-37e195e5ea87">
+![image](https://github.com/user-attachments/assets/3fe32ee2-5e4a-4a42-b3fd-ef604868dd93)
+
